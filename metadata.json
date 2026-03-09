@@ -1,0 +1,5 @@
+{
+  "name": "Resep & Assessment",
+  "description": "Aplikasi pembaca resep dokter dan asesmen keluhan pasien untuk apoteker.",
+  "requestFramePermissions": ["camera"]
+}
